@@ -1,7 +1,7 @@
 # Awesome-Coding-Exercise-Sites
-### A curated list of websites for online coding exercise 
+### A curated list of websites for online coding exercise
 
-This is a list that contains all sites for online coding excercise from [this post on CodeCondo]. I haven't personally tried them all, but I will. :)
+This is a list that contains all sites for online coding exercise from [this post on CodeCondo], and others that I found somewhere else. I haven't personally tried them all, but I will. :)
 
 * [topcoder] - You get real money for solving problems. Guess that's why most of them are really difficult.
 * [HackerEarth] - A platform for developers to be exposed and get jobs.
